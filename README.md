@@ -1,4 +1,4 @@
-## 👋 Hi, I'm José – a Computer Science Undergraduate and NLP researcher at [UFRGS](https://www.inf.ufrgs.br/site/en).
+## 👋 Hi, I'm José – a Computer Science Undergraduate and NLP researcher/enthusiast.
 
 ## **Tech Stack**:
 
