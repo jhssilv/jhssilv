@@ -7,5 +7,4 @@
 - [MVP for a Web-Based Text Correction Platform](https://github.com/jhssilv/EssayCorrectorMVP) 
 
 ## Reach me: 
-- 📧 [Email](mailto:jhssilv@outlook.com) 
-- 💼 [LinkedIn](https://www.linkedin.com/in/joseh232/)
+- 📧 [Email](mailto:jhssilv@outlook.com)
