@@ -1,4 +1,4 @@
-## 👋 Hi, I'm José – Data Engineer & AI Enthusiast
+## 👋 Hi, I'm José – Data & AI Engineer
 
 I'm a Computer Science undergraduate passionate about building scalable data pipelines, multi-agent AI systems, and robust cloud architectures. 
 
