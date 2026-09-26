@@ -4,7 +4,7 @@ I'm a Computer Science undergraduate passionate about building scalable data pip
 
 - I'm currently working as a **Data Engineer at Econodata**, orchestrating massive ETL pipelines and developing Graph/Web RAG systems.
 - Previously, I worked as a **Full Stack AI Developer at Altervision**, building serverless backend infrastructures and optimizing LLM ecosystems.
-- Pursuing a B.S. in Computer Science at UFRGS (Expected Aug 2026).
+- Pursuing a M.S. in Computer Science at UFRGS (Expected Aug 2028).
 
 ## **Tech Stack**:
 
