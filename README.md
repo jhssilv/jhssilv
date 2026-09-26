@@ -23,11 +23,3 @@ I'm a Computer Science undergraduate passionate about building scalable data pip
 **Backend & Frontend:**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-
-## **Featured Projects**:
-
-- [MVP for a Web-Based Text Correction Platform](https://github.com/jhssilv/EssayCorrectorMVP)
-- [Repository Tree Generator](https://github.com/jhssilv/Baobab)
-
-## **Reach me**: 
-- 📧 [Email](mailto:jhssilv@outlook.com)
